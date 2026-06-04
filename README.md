@@ -1,6 +1,6 @@
 # virtual-try-on
 
-基于 CP-VTON 的 2D 虚拟试衣 demo。输入人物照片和平铺服装图，输出试穿合成图。推理走 OpenCV DNN，不需要 PyTorch 训练环境。
+基于 CP-VTON 的 2D 虚拟试衣 demo。输入人物照片和平铺服装图，输出试穿合成图。
 
 ## 做了什么
 
